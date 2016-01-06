@@ -1,2 +1,3 @@
-#javascript-koans
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+# JS Koans
+
+My solutions for [JS Koans](https://github.com/mrdavidlaing/javascript-koans).
